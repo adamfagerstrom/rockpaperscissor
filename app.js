@@ -94,7 +94,7 @@ function game() {
             computerScore
         );
     } else {
-        console.log("It´s a tie... Och vi testar branch");
+        console.log("It´s a tie... Och vi testar branch och mergar den");
     }
 }
 game();
